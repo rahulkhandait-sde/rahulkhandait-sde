@@ -8,6 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkhandait-sde&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkhandait-sde" /> </p>
 
+- 🏫 I am currently pursuing **B.Tech** in **Computer Science and Engineering (CSE)**
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rahulkhandait/](https://www.linkedin.com/in/rahulkhandait/)
