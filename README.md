@@ -1,4 +1,4 @@
-[![MasterHead] (https://www.canva.com/design/DAFqLNraICs/9YA2IgcmbWYuXXsIJYCebA/view?utm_content=DAFqLNraICs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[![MasterHead] (https://github.com/rahulkhandait-sde/rahulkhandait-sde/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Rahul Khandait</h1>
 <h3 align="center">A aspiring Software Engineer from India</h3>
 
