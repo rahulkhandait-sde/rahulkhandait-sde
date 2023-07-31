@@ -1,4 +1,4 @@
-[![MasterHead] (https://github.com/rahulkhandait-sde/rahulkhandait-sde/blob/main/Banner.png)
+[![MasterHead] (https://github.com/rahulkhandait-sde/rahulkhandait-sde/blob/main/Banner.png)]
 <h1 align="center">Hi 👋, I'm Rahul Khandait</h1>
 <h3 align="center">A aspiring Software Engineer from India</h3>
 
