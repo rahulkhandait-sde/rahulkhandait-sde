@@ -1,4 +1,4 @@
-[![MasterHead][(https://github.com/rahulkhandait-sde/rahulkhandait-sde/blob/main/YouTube_Banner_3.png)](https://www.youtube.com/channel/UC5ofKtEFjMoG8r7sxLs1T4Q)](https://studio.youtube.com/channel/UC5ofKtEFjMoG8r7sxLs1T4Q/editing/images)
+[![MasterHead](https://www.youtube.com/channel/UC5ofKtEFjMoG8r7sxLs1T4Q)](https://studio.youtube.com/channel/UC5ofKtEFjMoG8r7sxLs1T4Q/editing/images)
 
 <h1 align="center">Hi 👋, I'm Rahul Khandait</h1>
 <h3 align="center">A aspiring Software Engineer from India</h3>
