@@ -1,5 +1,4 @@
-[![MasterHead](https://www.youtube.com/channel/UC5ofKtEFjMoG8r7sxLs1T4Q)](https://studio.youtube.com/channel/UC5ofKtEFjMoG8r7sxLs1T4Q/editing/images)
-
+[![MasterHead] (https://www.canva.com/design/DAFqLNraICs/9YA2IgcmbWYuXXsIJYCebA/view?utm_content=DAFqLNraICs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <h1 align="center">Hi 👋, I'm Rahul Khandait</h1>
 <h3 align="center">A aspiring Software Engineer from India</h3>
 
