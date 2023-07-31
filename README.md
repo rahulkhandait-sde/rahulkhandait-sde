@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Khandait</h1>
 <h3 align="center">A aspiring Software Engineer from India</h3>
 
-<img align="right" alt="Coding" width="450" height="350" src="https://github.com/rahulkhandait-sde/rahulkhandait-sde/blob/main/GitHub_Readme.png">
+<img align="right" alt="Coding" width="450" height="350" src="https://github.com/rahulkhandait-sde/rahulkhandait-sde/blob/main/Coding.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkhandait-sde&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkhandait-sde" /> </p>
