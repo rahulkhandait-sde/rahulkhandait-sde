@@ -15,9 +15,8 @@
 
 - 💬 Ask me about **MERN Stack, Python, SQL**
 
-- 📫 How to reach me **rahulkhandait@officein365.com**
+- 📫 How to reach me **rahulkhandait84206@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
