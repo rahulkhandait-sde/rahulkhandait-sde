@@ -1,38 +1,92 @@
 ![MasterHead](https://github.com/rahulkhandait-sde/rahulkhandait-sde/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Rahul Khandait</h1>
-<h3 align="center">Aspiring Software Architect</h3>
+<h2 align="center">Hi👋, I'm Rahul Khandait, an aspiring Software Architect</h2>
 
-<img align="right" alt="Coding" width="450" height="350" src="https://github.com/rahulkhandait-sde/rahulkhandait-sde/blob/main/Coding.png">
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rahulkhandait-sde/count.svg?"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkhandait-sde&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkhandait-sde" /> </p>
+###
 
-- 🏫 I am currently pursuing **B.Tech** in **Computer Science and Engineering (CSE)**
+<div align="center">
+  <img height="200" src="https://github.com/user-attachments/assets/12c26628-45fc-443d-8a29-9e76d555c9ef"  />
+</div>
 
-- 🌱 I’m currently learning **MERN Stack**
+###
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rahulkhandait/](https://www.linkedin.com/in/rahulkhandait/)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+</div>
 
-- 💬 Ask me about **MERN Stack, Python, SQL**
+###
 
-- 📫 How to reach me **rahulkhandait84206@gmail.com**
+<div align="center">
+  <a href="https://www.youtube.com/@rahul_khandait" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="34" alt="youtube logo"  />
+  </a>
+  <a href="rahulkhandait84206@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="34" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/rahulkhandait/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="34" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/rahulkhandait_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="34" alt="twitter logo"  />
+  </a>
+  <a href="https://linktr.ee/rahulkhandait" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=flat" height="34" alt="linktree logo"  />
+  </a>
+  <a href="t.me/rahulkhandait" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="34" alt="telegram logo"  />
+  </a>
+</div>
 
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rahul_84206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahul_84206" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahulkhandait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulkhandait" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17699441/rahul-khandait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rahul-khandait" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc5ofktefjmog8r7sxls1t4q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc5ofktefjmog8r7sxls1t4q" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rahulkhandait" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahulkhandait" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rahulkhandait-sde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rahulkhandait-sde" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rahulkhandait-sde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulkhandait-sde" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rahul84206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rahul84206" height="30" width="40" /></a>
-</p>
+<br clear="both">
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/rahulkhandait-sde/rahulkhandait-sde/output/snake.svg" alt="Snake animation" />
 
-<p><img align="center" width="24%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkhandait-sde&show_icons=true&locale=en&layout=compact" alt="rahulkhandait-sde" />
-&nbsp; <img align="center" width="32%" height="215"  src="https://github-readme-stats.vercel.app/api?username=rahulkhandait-sde&show_icons=true&locale=en" alt="rahulkhandait-sde" />
-&nbsp; <img align="center" width="34%"  height="225" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkhandait-sde&" alt="rahulkhandait-sde" /></p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulkhandait-sde&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=rahulkhandait-sde&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
