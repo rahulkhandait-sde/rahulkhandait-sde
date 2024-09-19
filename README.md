@@ -75,11 +75,6 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="34" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/rahulkhandait-sde/rahulkhandait-sde/output/snake.svg" alt="Snake animation" />
 
 ###
