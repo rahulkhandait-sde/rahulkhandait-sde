@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/rahulkhandait-sde/rahulkhandait-sde/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Rahul Khandait</h1>
-<h3 align="center">A aspiring Software Architect from India</h3>
+<h3 align="center">Aspiring Software Architect</h3>
 
 <img align="right" alt="Coding" width="450" height="350" src="https://github.com/rahulkhandait-sde/rahulkhandait-sde/blob/main/Coding.png">
 
