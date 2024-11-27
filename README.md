@@ -67,5 +67,4 @@
 
 <img src="https://raw.githubusercontent.com/rahulkhandait-sde/rahulkhandait-sde/output/snake.svg" alt="Snake animation" />
 
-
 ###
