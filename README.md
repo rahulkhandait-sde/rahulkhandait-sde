@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋, I'm Rahul Khandait, an aspiring Software Architect</h2>
+<h2 align="left">Hi👋, I'm Rahul Khandait, an aspiring Software Architect </h2>
 
 ###
 
